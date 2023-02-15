@@ -22,5 +22,7 @@
 </h3>
 
 <p align="center">
-David Basile Filho
+    David Basile Filho
+    <br>
+    <a href="LICENSE.md">LICENSE</a>
 </p>
