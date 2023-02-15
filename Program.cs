@@ -49,12 +49,11 @@ namespace Calculator {
             Console.WriteLine("Do you want to restart? (y/n): ");
             var wantsToRestart = Console.ReadLine() == "y";
 
+            Console.ResetColor();
             Console.Clear();
             if (wantsToRestart) {
                 Main(args);
             }
-
-            Console.ResetColor();
         }
 
         static float Add(float x, float y) {
