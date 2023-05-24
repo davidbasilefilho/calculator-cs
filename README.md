@@ -3,7 +3,7 @@
 </h1>
 
 <p align="justify">
-    A simple calculator program that I made to impress my teacher lol (even though it is very simple, but there are some interesting things about it)
+    A simple calculator program that I made to impress my teacher (even though it is very simple, but there are some interesting things about it)
 </p>
 
 <h3 align="center">
@@ -11,7 +11,6 @@
 </h3>
 
 -   .NET 7.0 (might work on an older version though)
--   Windows 11 (might work on 10 but I didn't test on other versions of Windows)
 
 <h3 align="center">
     Credits
